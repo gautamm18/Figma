@@ -1,5 +1,5 @@
 # Ex08 Event Registration Web Application
-## Date:
+## Date:27-12-2025
 
 ## AIM:
 To design, develop and deploy a web application for event registration using Figma UI tool.
@@ -713,7 +713,6 @@ style.css
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-12-27 112800.png>)
-
+![alt text](<Screenshot 2025-12-27 115644.png>)
 ## RESULT:
 The program to design, develop and deploy a web application for event registration using Figma UI tool is completed successfully.
